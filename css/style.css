@@ -1,0 +1,137 @@
+h1,h2,h3,h4,h5,h6,ul,li{
+    margin: 0;
+   padding: 0;
+}
+
+.modal {
+    margin: auto;
+    position: absolute;
+    top: -500%; 
+}
+
+.modal:target{
+    transition: all 0.25s;
+    position: fixed;
+    background: rgba(0,0,0,0.8);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  
+    
+}
+
+.imagen{
+    width: 100%;
+    height: 70%;
+   
+    margin-top: 85px;
+  
+
+}
+
+.imagen a{
+    color: #fff;
+    font-size: 40px;
+    margin: 0 10px;
+}
+
+.imagen a:nth-child(2){
+    margin: 0;
+    height: 100%;
+    flex-shrink: 2;
+    
+}
+
+.cerrar{
+    display: block;
+    width: 25px;
+    height: 25px;
+    margin: 15px auto;
+    text-align: right;
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 50%;
+    line-height: 25px;
+    color: white;
+}
+
+.imagen img{
+    width: 500px;
+    height: 100%;
+    max-width: 100%;
+    border: 7px solid #fff;
+    box-sizing: border-box;
+}
+
+.Cosas{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 14%; 
+}
+.Bliss p{
+    Color:gray;
+     margin: 10px;
+}
+.Bliss {
+    
+    background: white;
+    width: 70%;
+    height: 84%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+}
+.Ubis p{
+    Color:gray;
+    margin: 10px;
+}
+.Ubis {
+    background-color: white;
+      width: 70%;
+    height: 84%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+}
+.Xb p{
+    Color:gray;
+     margin: 10px;
+}
+.Xb {
+    background-color: white;
+    width: 70%;
+    height: 84%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+}
+.Ez p{
+    Color:gray;
+     margin: 10px;
+}
+.Ez {
+    background-color: white;
+     width: 70%;
+    height: 84%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+}
+
+
+.Pie-P {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: "Trajan Pro Regular";
+    font-size: 0.8em;
+    margin-top: 177px;
+}
+.Pie-P p{
+    color: #6b6b6b;
+}
+
