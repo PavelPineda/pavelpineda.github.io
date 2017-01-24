@@ -69,53 +69,15 @@ h1,h2,h3,h4,h5,h6,ul,li{
     display: flex;
     margin-top: 14%; 
 }
-.Bliss p{
+  text-align: center;
+}
+.nuv p{
     Color:gray;
      margin: 10px;
 }
-.Bliss {
-    
-    background: white;
-    width: 70%;
-    height: 84%;
-    margin: 0 auto;
-    padding: 20px;
-    display: flex;
-    text-align: center;
-}
-.Ubis p{
-    Color:gray;
-    margin: 10px;
-}
-.Ubis {
-    background-color: white;
-      width: 70%;
-    height: 84%;
-    margin: 0 auto;
-    padding: 20px;
-    display: flex;
-    text-align: center;
-}
-.Xb p{
-    Color:gray;
-     margin: 10px;
-}
-.Xb {
+.nuv {
     background-color: white;
     width: 70%;
-    height: 84%;
-    margin: 0 auto;
-    padding: 20px;
-    display: flex;
-    text-align: center;
-}
-.Ez p{
-    Color:gray;
-     margin: 10px;
-}
-.Ez {
-    background-color: white;
-     width: 70%;
     height: 84%;
     margin: 0 auto;
     padding: 20px;
@@ -123,6 +85,19 @@ h1,h2,h3,h4,h5,h6,ul,li{
     text-align: center;
 }
 
+.zpace p{
+    Color:gray;
+     margin: 10px;
+}
+.zpace {
+    background-color: white;
+    width: 70%;
+    height: 84%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+}
 
 .Pie-P {
     text-align: center;
