@@ -98,6 +98,19 @@ h1,h2,h3,h4,h5,h6,ul,li{
     display: flex;
     text-align: center;
 }
+.dr p{
+    Color:gray;
+     margin: 10px;
+}
+.dr {
+    background-color: white;
+    width: 70%;
+    height: 84%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    text-align: center;
+}
 
 .Pie-P {
     text-align: center;
@@ -110,3 +123,9 @@ h1,h2,h3,h4,h5,h6,ul,li{
     color: #6b6b6b;
 }
 
+musica{
+    float;
+  Z-index;
+    position: absolute;
+    
+}
